@@ -7,7 +7,7 @@ Trabalho final para o curso Fullstack Labenu, usando React e simulando o Spotfy
 Faça o clone do repositório
 
 ```
-git clone https://github.com/Mario-Luz/Mario-Luz
+git clone https://github.com/Mario-Luz/SpotNu
 ```
 
 Instale as dependências
